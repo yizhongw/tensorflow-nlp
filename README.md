@@ -1,2 +1,2 @@
 # tensorflow-implementations
-Implementations of Neural Network variants with Tensorflow
+Tenforflow implementation of prevailing Neural Network models for NLP.
