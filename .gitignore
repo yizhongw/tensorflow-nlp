@@ -1,0 +1,4 @@
+.idea
+*__pycache__
+data/embeddings/glove.6B.50d.txt
+/* data/stanfordSentimentTreebank/trees/ */
