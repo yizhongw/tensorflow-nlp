@@ -1,0 +1,1 @@
+This repository implements the TreeLSTM model proposed in []() and tests this model on fine-grained sentiment classification on [Stanford Sentiment Treebank](). 
