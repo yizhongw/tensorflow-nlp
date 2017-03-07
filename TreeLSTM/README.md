@@ -11,8 +11,9 @@ It is actually a fork and refactor of the
     
 This code is tested on Python 3.5 and it requires Tensorflow 1.0 and [Tensorflow Fold](https://github.com/tensorflow/fold) to run, which you can install
     with pip:
-    ```
-        pip install tensorflow
-        pip install tensorflow_fold
-    ```
+
+```
+pip install tensorflow
+pip install tensorflow_fold
+```
     
